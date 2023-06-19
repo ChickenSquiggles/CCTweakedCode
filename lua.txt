@@ -1,0 +1,20 @@
+money.lua       - pastebin run cXnyGh2D
+draw.lua        - pastebin run P6jeYMxv
+move.lua        - pastebin run H8mVNcGm
+sendMove.lua    - pastebin run 5H52k4mj
+show.lua        - pastebin run jUGMMKpe
+show2.lua       - pastebin run UtKA29sU
+cashiermaker    - pastebin run n9WRaKCn
+
+
+client wooda    - pastebin run L86KwWhN
+server turt     - pastebin run Fvr5a8ie
+
+iPodCC          - pastebin run UQ1X5g2Q
+
+
+turtleDig       - pastebin run 02mBnhEB
+turtleDigClient - pastebin run 3peAzBnx
+
+
+speaker stop back

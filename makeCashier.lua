@@ -1,0 +1,6 @@
+local card = peripheral.wrap("right")
+local cmf = io.open("disk/pass.txt", "w")
+cmf:write("AdminControl")
+card.setDiskLabel("Cashier")
+cmf:close()
+print("All Done! Cashier Card Initialized!")
